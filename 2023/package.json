@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "challenge01": "ts-node CHALLENGE_01/solve.ts"
   },
   "author": "",
   "license": "ISC",
